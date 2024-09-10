@@ -1,0 +1,65 @@
+body{
+      color:white;
+      background: black;
+      margin: 60px;
+      font-family: "Roboto", sans-serif;
+      margin-bottom: 1000px;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdMGA5bUQleiZRZkYYH8QxaVUhwHzLzwgajngRT1Q25AExtzjpqMH1InbnsypdXo9zb44&usqp=CAU);
+    
+    
+
+}
+
+header{
+    border-bottom: solid 1px red;
+    padding: 20px;
+    font-size: 32px;
+    color: red;
+    border-radius: 50px;
+    background: blue;
+}
+
+.chamada{
+     background: blue;
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 35px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.outros-raps{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.raps{
+     padding-left: 20px;
+     padding-right: 20px;
+     margin-top: 50px;
+     background: blue;
+     border-radius: 50px;
+}
+
+.raps h2{
+    color: red;
+}
+
+.Raps-2 h2{
+    color: red;
+}
+
