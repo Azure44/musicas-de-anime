@@ -4,8 +4,8 @@ body{
       margin: 60px;
       font-family: "Roboto", sans-serif;
       margin-bottom: 1000px;
-      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdMGA5bUQleiZRZkYYH8QxaVUhwHzLzwgajngRT1Q25AExtzjpqMH1InbnsypdXo9zb44&usqp=CAU);
-    
+      background-image: url(https://wallpaper.forfun.com/fetch/aa/aaa52062268233dcd243cd3f7edfd515.jpeg);
+      background-size: 500px;
     
 
 }
@@ -31,6 +31,7 @@ header{
 
 .chamada-texto{
     margin-right: 5%;
+    border-radius: 50px;
 }
 
 h1{
@@ -45,6 +46,7 @@ p{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    border-radius: 50px;
 }
 
 .raps{
